@@ -1,0 +1,38 @@
+GoTo_TestCases
+
+Note user already logged in and navigated to "Chats" Menu
+
+Test Case: Send a message to a user
+
+1-Click user name from Contacts List
+2-Click message input box
+3-Text your message to message input box
+4-Click submit button
+5-Verify that your message is listed at the bottom
+
+
+Test Case: Add a new contact to "Contacts" and remove it
+
+1-Click "+" icon from right side of "Contacts" title
+2-Type to search box a unique part of a contact name or email and verify that Testad76a User15984 has been listed each attempt
+3-Click listed contact name
+4-Verify that contact name is visible under "Contacts"
+5-Hover over mouse to new contact name
+6-Click "x" icon
+7-Verify that new contact is not visible anymore
+
+Test Case: Create a new group, add some users and delete
+
+1-Click "+" icon from right side of "Groups" title
+2-Click "New group" button
+3-Type a name for new group to "New group name input box"
+4-Type contacts name to "Group members" text box and select listed user
+5-Click "Create group" button
+6-Verify that new group name is listed at top
+7-Click human icon at top right in new group window
+8-Verify that members' name are correct
+9-Click gear icon left side of human icon in new group window
+10-Click "Delete Group" button
+11-Verify that new group name is not visible anymore
+
+

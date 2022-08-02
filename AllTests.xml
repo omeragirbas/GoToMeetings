@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Go To Meetings Automation" verbose="1">
+    <test name="All Tests">
+        <packages>
+            <package name="com.GoTo.tests"></package>
+        </packages>
+        <classes>
+            <class name="com.GoTo.tests.MessageTest"></class>
+            <class name="com.GoTo.tests.ContactTest"></class>
+            <class name="com.GoTo.tests.GroupTest"></class>
+        </classes>
+    </test>
+</suite>
